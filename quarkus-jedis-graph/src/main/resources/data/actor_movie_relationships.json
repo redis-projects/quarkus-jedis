@@ -1,0 +1,963 @@
+[
+  {
+    "actorName": "Jim Varney",
+    "actorRole": "Slinky Dog (voice)",
+    "movieTitle": "Toy Story"
+  },
+  {
+    "actorName": "Tim Allen",
+    "actorRole": "Buzz Lightyear (voice)",
+    "movieTitle": "Toy Story"
+  },
+  {
+    "actorName": "Tom Hanks",
+    "actorRole": "Woody (voice)",
+    "movieTitle": "Toy Story"
+  },
+  {
+    "actorName": "Tom Hanks",
+    "actorRole": "Forrest Gump",
+    "movieTitle": "Forrest Gump"
+  },
+  {
+    "actorName": "Don Rickles",
+    "actorRole": "Mr. Potato Head (voice)",
+    "movieTitle": "Toy Story"
+  },
+  {
+    "actorName": "Robin Williams",
+    "actorRole": "Alan Parrish",
+    "movieTitle": "Jumanji"
+  },
+  {
+    "actorName": "Bradley Pierce",
+    "actorRole": "Peter Shepherd",
+    "movieTitle": "Jumanji"
+  },
+  {
+    "actorName": "Kirsten Dunst",
+    "actorRole": "Judy Shepherd",
+    "movieTitle": "Jumanji"
+  },
+  {
+    "actorName": "Jonathan Hyde",
+    "actorRole": "Samuel Alan Parrish / Van Pelt",
+    "movieTitle": "Jumanji"
+  },
+  {
+    "actorName": "Walter Matthau",
+    "actorRole": "Max Goldman",
+    "movieTitle": "Grumpier Old Men"
+  },
+  {
+    "actorName": "Ann-Margret",
+    "actorRole": "Ariel Gustafson",
+    "movieTitle": "Grumpier Old Men"
+  },
+  {
+    "actorName": "Jack Lemmon",
+    "actorRole": "John Gustafson",
+    "movieTitle": "Grumpier Old Men"
+  },
+  {
+    "actorName": "Sophia Loren",
+    "actorRole": "Maria Sophia Coletta Ragetti",
+    "movieTitle": "Grumpier Old Men"
+  },
+  {
+    "actorName": "Whitney Houston",
+    "actorRole": "Savannah Jackson",
+    "movieTitle": "Waiting to Exhale"
+  },
+  {
+    "actorName": "Lela Rochon",
+    "actorRole": "Robin Stokes",
+    "movieTitle": "Waiting to Exhale"
+  },
+  {
+    "actorName": "Angela Bassett",
+    "actorRole": "Bernie Harris",
+    "movieTitle": "Waiting to Exhale"
+  },
+  {
+    "actorName": "Loretta Devine",
+    "actorRole": "Gloria Matthews",
+    "movieTitle": "Waiting to Exhale"
+  },
+  {
+    "actorName": "Steve Martin",
+    "actorRole": "George Banks",
+    "movieTitle": "Father of the Bride Part II"
+  },
+  {
+    "actorName": "Kimberly Williams-Paisley",
+    "actorRole": "Annie Banks-MacKenzie",
+    "movieTitle": "Father of the Bride Part II"
+  },
+  {
+    "actorName": "Diane Keaton",
+    "actorRole": "Nina Banks",
+    "movieTitle": "Father of the Bride Part II"
+  },
+  {
+    "actorName": "Martin Short",
+    "actorRole": "Franck Eggelhoffer",
+    "movieTitle": "Father of the Bride Part II"
+  },
+  {
+    "actorName": "Al Pacino",
+    "actorRole": "Lt. Vincent Hanna",
+    "movieTitle": "Heat"
+  },
+  {
+    "actorName": "Robert De Niro",
+    "actorRole": "Neil McCauley",
+    "movieTitle": "Heat"
+  },
+  {
+    "actorName": "Val Kilmer",
+    "actorRole": "Chris Shiherlis",
+    "movieTitle": "Heat"
+  },
+  {
+    "actorName": "Jon Voight",
+    "actorRole": "Nate",
+    "movieTitle": "Heat"
+  },
+  {
+    "actorName": "Julia Ormond",
+    "actorRole": "Sabrina Fairchild",
+    "movieTitle": "Sabrina"
+  },
+  {
+    "actorName": "Harrison Ford",
+    "actorRole": "Linus Larrabee",
+    "movieTitle": "Sabrina"
+  },
+  {
+    "actorName": "Nancy Marchand",
+    "actorRole": "Maude Larrabee",
+    "movieTitle": "Sabrina"
+  },
+  {
+    "actorName": "Greg Kinnear",
+    "actorRole": "David Larrabee",
+    "movieTitle": "Sabrina"
+  },
+  {
+    "actorName": "Jonathan Taylor Thomas",
+    "actorRole": "Tom Sawyer",
+    "movieTitle": "Tom and Huck"
+  },
+  {
+    "actorName": "Brad Renfro",
+    "actorRole": "Huck Finn",
+    "movieTitle": "Tom and Huck"
+  },
+  {
+    "actorName": "Eric Schweig",
+    "actorRole": "Injun Joe",
+    "movieTitle": "Tom and Huck"
+  },
+  {
+    "actorName": "Charles Rocket",
+    "actorRole": "Judge Thatcher",
+    "movieTitle": "Tom and Huck"
+  },
+  {
+    "actorName": "Jean-Claude Van Damme",
+    "actorRole": "Darren Francis Thomas McCord",
+    "movieTitle": "Sudden Death"
+  },
+  {
+    "actorName": "Powers Boothe",
+    "actorRole": "Joshua Foss",
+    "movieTitle": "Sudden Death"
+  },
+  {
+    "actorName": "Raymond J. Barry",
+    "actorRole": "Vice President Daniel Bender",
+    "movieTitle": "Sudden Death"
+  },
+  {
+    "actorName": "Whittni Wright",
+    "actorRole": "Emily McCord",
+    "movieTitle": "Sudden Death"
+  },
+  {
+    "actorName": "Pierce Brosnan",
+    "actorRole": "James Bond",
+    "movieTitle": "GoldenEye"
+  },
+  {
+    "actorName": "Famke Janssen",
+    "actorRole": "Xenia Onatopp",
+    "movieTitle": "GoldenEye"
+  },
+  {
+    "actorName": "Sean Bean",
+    "actorRole": "Alec Trevelyan",
+    "movieTitle": "GoldenEye"
+  },
+  {
+    "actorName": "Izabella Scorupco",
+    "actorRole": "Natalya Fyodorovna Simonova",
+    "movieTitle": "GoldenEye"
+  },
+  {
+    "actorName": "Martin Sheen",
+    "actorRole": "A.J. MacInerney",
+    "movieTitle": "American President, The"
+  },
+  {
+    "actorName": "Michael J. Fox",
+    "actorRole": "Lewis Rothschild",
+    "movieTitle": "American President, The"
+  },
+  {
+    "actorName": "Michael Douglas",
+    "actorRole": "Andrew Shepherd",
+    "movieTitle": "American President, The"
+  },
+  {
+    "actorName": "Annette Bening",
+    "actorRole": "Sydney Ellen Wade",
+    "movieTitle": "American President, The"
+  },
+  {
+    "actorName": "Peter MacNicol",
+    "actorRole": "Thomas Renfield",
+    "movieTitle": "Dracula: Dead and Loving It"
+  },
+  {
+    "actorName": "Leslie Nielsen",
+    "actorRole": "Count Dracula",
+    "movieTitle": "Dracula: Dead and Loving It"
+  },
+  {
+    "actorName": "Steven Weber",
+    "actorRole": "Jonathan Harker",
+    "movieTitle": "Dracula: Dead and Loving It"
+  },
+  {
+    "actorName": "Amy Yasbeck",
+    "actorRole": "Mina Seward",
+    "movieTitle": "Dracula: Dead and Loving It"
+  },
+  {
+    "actorName": "Kevin Bacon",
+    "actorRole": "Balto (voice)",
+    "movieTitle": "Balto"
+  },
+  {
+    "actorName": "Bob Hoskins",
+    "actorRole": "Boris the Goose (voice)",
+    "movieTitle": "Balto"
+  },
+  {
+    "actorName": "Jim Cummings",
+    "actorRole": "Steele the Sled Dog (voice)",
+    "movieTitle": "Balto"
+  },
+  {
+    "actorName": "Bridget Fonda",
+    "actorRole": "Jenna (voice)",
+    "movieTitle": "Balto"
+  },
+  {
+    "actorName": "Ed Harris",
+    "actorRole": "E. Howard Hunt",
+    "movieTitle": "Nixon"
+  },
+  {
+    "actorName": "Anthony Hopkins",
+    "actorRole": "Richard Nixon",
+    "movieTitle": "Nixon"
+  },
+  {
+    "actorName": "Powers Boothe",
+    "actorRole": "Alexander Haig",
+    "movieTitle": "Nixon"
+  },
+  {
+    "actorName": "Joan Allen",
+    "actorRole": "Pat Nixon",
+    "movieTitle": "Nixon"
+  },
+  {
+    "actorName": "Geena Davis",
+    "actorRole": "Morgan Adams",
+    "movieTitle": "Cutthroat Island"
+  },
+  {
+    "actorName": "Frank Langella",
+    "actorRole": "Dawg",
+    "movieTitle": "Cutthroat Island"
+  },
+  {
+    "actorName": "Matthew Modine",
+    "actorRole": "William Shaw",
+    "movieTitle": "Cutthroat Island"
+  },
+  {
+    "actorName": "Maury Chaykin",
+    "actorRole": "John Reed",
+    "movieTitle": "Cutthroat Island"
+  },
+  {
+    "actorName": "Robert De Niro",
+    "actorRole": "Sam 'Ace' Rothstein",
+    "movieTitle": "Casino"
+  },
+  {
+    "actorName": "Joe Pesci",
+    "actorRole": "Nicky Santoro",
+    "movieTitle": "Casino"
+  },
+  {
+    "actorName": "Sharon Stone",
+    "actorRole": "Ginger McKenna",
+    "movieTitle": "Casino"
+  },
+  {
+    "actorName": "James Woods",
+    "actorRole": "Lester Diamond",
+    "movieTitle": "Casino"
+  },
+  {
+    "actorName": "James Fleet",
+    "actorRole": "John Dashwood",
+    "movieTitle": "Sense and Sensibility"
+  },
+  {
+    "actorName": "Kate Winslet",
+    "actorRole": "Marianne Dashwood",
+    "movieTitle": "Sense and Sensibility"
+  },
+  {
+    "actorName": "Tom Wilkinson",
+    "actorRole": "Mr. Dashwood",
+    "movieTitle": "Sense and Sensibility"
+  },
+  {
+    "actorName": "Harriet Walter",
+    "actorRole": "Fanny Ferrars Dashwood",
+    "movieTitle": "Sense and Sensibility"
+  },
+  {
+    "actorName": "Amanda De Cadenet",
+    "movieTitle": "Four Rooms"
+  },
+  {
+    "actorName": "Valeria Golino",
+    "actorRole": "Athena",
+    "movieTitle": "Four Rooms"
+  },
+  {
+    "actorName": "Madonna",
+    "actorRole": "Elspeth",
+    "movieTitle": "Four Rooms"
+  },
+  {
+    "actorName": "Sammi Davis",
+    "actorRole": "Jezebel",
+    "movieTitle": "Four Rooms"
+  },
+  {
+    "actorName": "Jim Carrey",
+    "actorRole": "Ace Ventura",
+    "movieTitle": "Ace Ventura: When Nature Calls"
+  },
+  {
+    "actorName": "Ian McNeice",
+    "actorRole": "Fulton Greenwall",
+    "movieTitle": "Ace Ventura: When Nature Calls"
+  },
+  {
+    "actorName": "Simon Callow",
+    "actorRole": "Vincent Cadby",
+    "movieTitle": "Ace Ventura: When Nature Calls"
+  },
+  {
+    "actorName": "Maynard Eziashi",
+    "actorRole": "Ouda",
+    "movieTitle": "Ace Ventura: When Nature Calls"
+  },
+  {
+    "actorName": "Wesley Snipes",
+    "actorRole": "John",
+    "movieTitle": "Money Train"
+  },
+  {
+    "actorName": "Robert Blake",
+    "actorRole": "Donald Patterson",
+    "movieTitle": "Money Train"
+  },
+  {
+    "actorName": "Woody Harrelson",
+    "actorRole": "Charlie",
+    "movieTitle": "Money Train"
+  },
+  {
+    "actorName": "Jennifer Lopez",
+    "actorRole": "Grace Santiago",
+    "movieTitle": "Money Train"
+  },
+  {
+    "actorName": "Danny DeVito",
+    "actorRole": "Martin Weir",
+    "movieTitle": "Get Shorty"
+  },
+  {
+    "actorName": "Gene Hackman",
+    "actorRole": "Harry Zimm",
+    "movieTitle": "Get Shorty"
+  },
+  {
+    "actorName": "Rene Russo",
+    "actorRole": "Karen Flores",
+    "movieTitle": "Get Shorty"
+  },
+  {
+    "actorName": "John Travolta",
+    "actorRole": "Chili Palmer",
+    "movieTitle": "Get Shorty"
+  },
+  {
+    "actorName": "Sigourney Weaver",
+    "actorRole": "Helen Hudson",
+    "movieTitle": "Copycat"
+  },
+  {
+    "actorName": "Holly Hunter",
+    "actorRole": "M.J. Monahan",
+    "movieTitle": "Copycat"
+  },
+  {
+    "actorName": "Dermot Mulroney",
+    "actorRole": "Ruben Goetz",
+    "movieTitle": "Copycat"
+  },
+  {
+    "actorName": "William McNamara",
+    "actorRole": "Peter Foley",
+    "movieTitle": "Copycat"
+  },
+  {
+    "actorName": "Sylvester Stallone",
+    "actorRole": "Robert Rath",
+    "movieTitle": "Assassins"
+  },
+  {
+    "actorName": "Anatoli Davydov",
+    "actorRole": "Nicolai Tashlinkov",
+    "movieTitle": "Assassins"
+  },
+  {
+    "actorName": "Antonio Banderas",
+    "actorRole": "Miguel Bain",
+    "movieTitle": "Assassins"
+  },
+  {
+    "actorName": "Julianne Moore",
+    "actorRole": "Electra",
+    "movieTitle": "Assassins"
+  },
+  {
+    "actorName": "Mary Steenburgen",
+    "actorRole": "Jessie Caldwell",
+    "movieTitle": "Powder"
+  },
+  {
+    "actorName": "Jeff Goldblum",
+    "actorRole": "Donald Ripley",
+    "movieTitle": "Powder"
+  },
+  {
+    "actorName": "Lance Henriksen",
+    "actorRole": "Sheriff Doug Barnum",
+    "movieTitle": "Powder"
+  },
+  {
+    "actorName": "Sean Patrick Flanery",
+    "actorRole": "Jeremy 'Powder' Reed",
+    "movieTitle": "Powder"
+  },
+  {
+    "actorName": "Nicolas Cage",
+    "actorRole": "Ben Sanderson",
+    "movieTitle": "Leaving Las Vegas"
+  },
+  {
+    "actorName": "Elisabeth Shue",
+    "actorRole": "Sera",
+    "movieTitle": "Leaving Las Vegas"
+  },
+  {
+    "actorName": "Julian Sands",
+    "actorRole": "Yuri",
+    "movieTitle": "Leaving Las Vegas"
+  },
+  {
+    "actorName": "Richard Lewis",
+    "actorRole": "Peter",
+    "movieTitle": "Leaving Las Vegas"
+  },
+  {
+    "actorName": "Irène Jacob",
+    "actorRole": "Desdemona",
+    "movieTitle": "Othello"
+  },
+  {
+    "actorName": "Laurence Fishburne",
+    "actorRole": "Othello",
+    "movieTitle": "Othello"
+  },
+  {
+    "actorName": "Kenneth Branagh",
+    "actorRole": "Iago",
+    "movieTitle": "Othello"
+  },
+  {
+    "actorName": "Nathaniel Parker",
+    "actorRole": "Cassio",
+    "movieTitle": "Othello"
+  },
+  {
+    "actorName": "Melanie Griffith",
+    "actorRole": "Tina 'Teeny' Tercell",
+    "movieTitle": "Now and Then"
+  },
+  {
+    "actorName": "Thora Birch",
+    "actorRole": "Teeny",
+    "movieTitle": "Now and Then"
+  },
+  {
+    "actorName": "Rosie O'Donnell",
+    "actorRole": "Dr. Roberta Martin",
+    "movieTitle": "Now and Then"
+  },
+  {
+    "actorName": "Christina Ricci",
+    "actorRole": "Young Roberta Martin",
+    "movieTitle": "Now and Then"
+  },
+  {
+    "actorName": "Amanda Root",
+    "actorRole": "Anne Elliott",
+    "movieTitle": "Persuasion"
+  },
+  {
+    "actorName": "Susan Fleetwood",
+    "actorRole": "Lady Russell",
+    "movieTitle": "Persuasion"
+  },
+  {
+    "actorName": "Ciarán Hinds",
+    "actorRole": "Captain Frederick Wentworth",
+    "movieTitle": "Persuasion"
+  },
+  {
+    "actorName": "Corin Redgrave",
+    "actorRole": "Sir Walter Eliot",
+    "movieTitle": "Persuasion"
+  },
+  {
+    "actorName": "Ron Perlman",
+    "actorRole": "One",
+    "movieTitle": "City of Lost Children, The (Cité des enfants perdus, La)"
+  },
+  {
+    "actorName": "Judith Vittet",
+    "actorRole": "Miette",
+    "movieTitle": "City of Lost Children, The (Cité des enfants perdus, La)"
+  },
+  {
+    "actorName": "Daniel Emilfork",
+    "actorRole": "Krank",
+    "movieTitle": "City of Lost Children, The (Cité des enfants perdus, La)"
+  },
+  {
+    "actorName": "Dominique Pinon",
+    "actorRole": "Le Scaphandrier / Les Clones",
+    "movieTitle": "City of Lost Children, The (Cité des enfants perdus, La)"
+  },
+  {
+    "actorName": "Gong Li",
+    "actorRole": "Bijou (Xiao Jinbao)",
+    "movieTitle": "Shanghai Triad (Yao a yao yao dao waipo qiao)"
+  },
+  {
+    "actorName": "Li Baotian",
+    "actorRole": "Boss Tang Laoda",
+    "movieTitle": "Shanghai Triad (Yao a yao yao dao waipo qiao)"
+  },
+  {
+    "actorName": "Wang Xiaoxiao",
+    "actorRole": "Shuisheng",
+    "movieTitle": "Shanghai Triad (Yao a yao yao dao waipo qiao)"
+  },
+  {
+    "actorName": "Xuejian Li",
+    "movieTitle": "Shanghai Triad (Yao a yao yao dao waipo qiao)"
+  },
+  {
+    "actorName": "Michelle Pfeiffer",
+    "actorRole": "Louanne Johnson",
+    "movieTitle": "Dangerous Minds"
+  },
+  {
+    "actorName": "Robin Bartlett",
+    "actorRole": "Carla Nichols",
+    "movieTitle": "Dangerous Minds"
+  },
+  {
+    "actorName": "George Dzundza",
+    "actorRole": "Hal Griffith",
+    "movieTitle": "Dangerous Minds"
+  },
+  {
+    "actorName": "Courtney B. Vance",
+    "actorRole": "George Grandey",
+    "movieTitle": "Dangerous Minds"
+  },
+  {
+    "actorName": "Bruce Willis",
+    "actorRole": "James Cole",
+    "movieTitle": "Twelve Monkeys (a.k.a. 12 Monkeys)"
+  },
+  {
+    "actorName": "Jon Seda",
+    "actorRole": "Jose",
+    "movieTitle": "Twelve Monkeys (a.k.a. 12 Monkeys)"
+  },
+  {
+    "actorName": "Michael Chance",
+    "actorRole": "Scarface",
+    "movieTitle": "Twelve Monkeys (a.k.a. 12 Monkeys)"
+  },
+  {
+    "actorName": "Joseph Melito",
+    "actorRole": "Young Cole",
+    "movieTitle": "Twelve Monkeys (a.k.a. 12 Monkeys)"
+  },
+  {
+    "actorName": "Hugo Weaving",
+    "actorRole": "Rex the Male Sheepdog (voice)",
+    "movieTitle": "Babe"
+  },
+  {
+    "actorName": "Christine Cavanaugh",
+    "actorRole": "Babe the Gallant Pig (voice)",
+    "movieTitle": "Babe"
+  },
+  {
+    "actorName": "Danny Mann",
+    "actorRole": "Ferdinand the Duck (voice)",
+    "movieTitle": "Babe"
+  },
+  {
+    "actorName": "Miriam Margolyes",
+    "actorRole": "Fly the Female Sheepdog (voice)",
+    "movieTitle": "Babe"
+  },
+  {
+    "actorName": "Steven Waddington",
+    "actorRole": "Ralph Partridge",
+    "movieTitle": "Carrington"
+  },
+  {
+    "actorName": "Emma Thompson",
+    "actorRole": "Dora Carrington",
+    "movieTitle": "Carrington"
+  },
+  {
+    "actorName": "Samuel West",
+    "actorRole": "Gerald Brenan",
+    "movieTitle": "Carrington"
+  },
+  {
+    "actorName": "Jonathan Pryce",
+    "actorRole": "Lytton Strachey",
+    "movieTitle": "Carrington"
+  },
+  {
+    "actorName": "Susan Sarandon",
+    "actorRole": "Sister Helen Prejean",
+    "movieTitle": "Dead Man Walking"
+  },
+  {
+    "actorName": "Raymond J. Barry",
+    "actorRole": "Earl Delacroix",
+    "movieTitle": "Dead Man Walking"
+  },
+  {
+    "actorName": "Robert Prosky",
+    "actorRole": "Hilton Barber",
+    "movieTitle": "Dead Man Walking"
+  },
+  {
+    "actorName": "Sean Penn",
+    "actorRole": "Matthew Poncelet",
+    "movieTitle": "Dead Man Walking"
+  },
+  {
+    "actorName": "Victor Steinbach",
+    "actorRole": "Seaman--Pilot",
+    "movieTitle": "Across the Sea of Time"
+  },
+  {
+    "actorName": "Peter Reznick",
+    "actorRole": "Tomas Minton",
+    "movieTitle": "Across the Sea of Time"
+  },
+  {
+    "actorName": "John McDonough",
+    "actorRole": "Freighter Chief",
+    "movieTitle": "Across the Sea of Time"
+  },
+  {
+    "actorName": "Avi Hoffman",
+    "actorRole": "Seaman",
+    "movieTitle": "Across the Sea of Time"
+  },
+  {
+    "actorName": "Kirstie Alley",
+    "actorRole": "Diane Barrows",
+    "movieTitle": "It Takes Two"
+  },
+  {
+    "actorName": "Steve Guttenberg",
+    "actorRole": "Roger Callaway",
+    "movieTitle": "It Takes Two"
+  },
+  {
+    "actorName": "Mary-Kate Olsen",
+    "actorRole": "Amanda Lemmon / Alyssa Callaway",
+    "movieTitle": "It Takes Two"
+  },
+  {
+    "actorName": "Ashley Olsen",
+    "actorRole": "Alyssa Callaway / Amanda Lemmon",
+    "movieTitle": "It Takes Two"
+  },
+  {
+    "actorName": "Alicia Silverstone",
+    "actorRole": "Cher Horowitz",
+    "movieTitle": "Clueless"
+  },
+  {
+    "actorName": "Paul Rudd",
+    "actorRole": "Josh Lucas",
+    "movieTitle": "Clueless"
+  },
+  {
+    "actorName": "Brittany Murphy",
+    "actorRole": "Tai Frasier",
+    "movieTitle": "Clueless"
+  },
+  {
+    "actorName": "Stacey Dash",
+    "actorRole": "Dionne Davenport",
+    "movieTitle": "Clueless"
+  },
+  {
+    "actorName": "James Earl Jones",
+    "actorRole": "Rev. Stephen Kumalo",
+    "movieTitle": "Cry, the Beloved Country"
+  },
+  {
+    "actorName": "Vusi Kunene",
+    "movieTitle": "Cry, the Beloved Country"
+  },
+  {
+    "actorName": "Richard Harris",
+    "actorRole": "James Jarvis",
+    "movieTitle": "Cry, the Beloved Country"
+  },
+  {
+    "actorName": "Charles S. Dutton",
+    "actorRole": "John Kumalo",
+    "movieTitle": "Cry, the Beloved Country"
+  },
+  {
+    "actorName": "Ian McKellen",
+    "actorRole": "Richard III",
+    "movieTitle": "Richard III"
+  },
+  {
+    "actorName": "Jim Broadbent",
+    "actorRole": "The Duke of Buckingham",
+    "movieTitle": "Richard III"
+  },
+  {
+    "actorName": "Annette Bening",
+    "actorRole": "Queen Elizabeth",
+    "movieTitle": "Richard III"
+  },
+  {
+    "actorName": "Robert Downey Jr.",
+    "actorRole": "Earl Rivers",
+    "movieTitle": "Richard III"
+  },
+  {
+    "actorName": "Larenz Tate",
+    "actorRole": "Anthony Curtis",
+    "movieTitle": "Dead Presidents"
+  },
+  {
+    "actorName": "Freddy Rodríguez",
+    "actorRole": "Jose",
+    "movieTitle": "Dead Presidents"
+  },
+  {
+    "actorName": "Chris Tucker",
+    "actorRole": "Skip",
+    "movieTitle": "Dead Presidents"
+  },
+  {
+    "actorName": "Keith David",
+    "actorRole": "Kirby",
+    "movieTitle": "Dead Presidents"
+  },
+  {
+    "actorName": "Sam Neill",
+    "actorRole": "King Charles II",
+    "movieTitle": "Restoration"
+  },
+  {
+    "actorName": "David Thewlis",
+    "actorRole": "John Pearce",
+    "movieTitle": "Restoration"
+  },
+  {
+    "actorName": "Robert Downey Jr.",
+    "actorRole": "Robert Merivel",
+    "movieTitle": "Restoration"
+  },
+  {
+    "actorName": "Polly Walker",
+    "actorRole": "Celia Clemence",
+    "movieTitle": "Restoration"
+  },
+  {
+    "actorName": "Christopher Lambert",
+    "actorRole": "Lord Rayden",
+    "movieTitle": "Mortal Kombat"
+  },
+  {
+    "actorName": "Linden Ashby",
+    "actorRole": "Johnny Cage",
+    "movieTitle": "Mortal Kombat"
+  },
+  {
+    "actorName": "Robin Shou",
+    "actorRole": "Liu Kang",
+    "movieTitle": "Mortal Kombat"
+  },
+  {
+    "actorName": "Cary-Hiroyuki Tagawa",
+    "actorRole": "Shang Tsung",
+    "movieTitle": "Mortal Kombat"
+  },
+  {
+    "actorName": "Joaquin Phoenix",
+    "actorRole": "Jimmy Emmett",
+    "movieTitle": "To Die For"
+  },
+  {
+    "actorName": "Matt Dillon",
+    "actorRole": "Larry Maretto",
+    "movieTitle": "To Die For"
+  },
+  {
+    "actorName": "Casey Affleck",
+    "actorRole": "Russel Hines",
+    "movieTitle": "To Die For"
+  },
+  {
+    "actorName": "Nicole Kidman",
+    "actorRole": "Suzanne Stone",
+    "movieTitle": "To Die For"
+  },
+  {
+    "actorName": "Anne Bancroft",
+    "actorRole": "Glady Joe Cleary",
+    "movieTitle": "How to Make an American Quilt"
+  },
+  {
+    "actorName": "Winona Ryder",
+    "actorRole": "Finn Dodd",
+    "movieTitle": "How to Make an American Quilt"
+  },
+  {
+    "actorName": "Adam Baldwin",
+    "actorRole": "Finn's Father",
+    "movieTitle": "How to Make an American Quilt"
+  },
+  {
+    "actorName": "Kate Capshaw",
+    "actorRole": "Sally",
+    "movieTitle": "How to Make an American Quilt"
+  },
+  {
+    "actorName": "Morgan Freeman",
+    "actorRole": "Detective Lt. William Somerset",
+    "movieTitle": "Seven (a.k.a. Se7en)"
+  },
+  {
+    "actorName": "Brad Pitt",
+    "actorRole": "Detective David Mills",
+    "movieTitle": "Seven (a.k.a. Se7en)"
+  },
+  {
+    "actorName": "Andrew Kevin Walker",
+    "actorRole": "Dead Man",
+    "movieTitle": "Seven (a.k.a. Se7en)"
+  },
+  {
+    "actorName": "Daniel Zacapa",
+    "actorRole": "Detective Taylor",
+    "movieTitle": "Seven (a.k.a. Se7en)"
+  },
+  {
+    "actorName": "Mel Gibson",
+    "actorRole": "John Smith (voice)",
+    "movieTitle": "Pocahontas"
+  },
+  {
+    "actorName": "Irene Bedard",
+    "actorRole": "Pocahontas (voice)",
+    "movieTitle": "Pocahontas"
+  },
+  {
+    "actorName": "David Ogden Stiers",
+    "actorRole": "Governor Ratcliffe (voice)",
+    "movieTitle": "Pocahontas"
+  },
+  {
+    "actorName": "Judy Kuhn",
+    "actorRole": "Pocahontas (singing voice)",
+    "movieTitle": "Pocahontas"
+  },
+  {
+    "actorName": "Henry Czerny",
+    "actorRole": "Martin",
+    "movieTitle": "When Night Is Falling"
+  },
+  {
+    "actorName": "Rachael Crawford",
+    "actorRole": "Petra",
+    "movieTitle": "When Night Is Falling"
+  },
+  {
+    "actorName": "David Fox",
+    "movieTitle": "When Night Is Falling"
+  },
+  {
+    "actorName": "Pascale Bussières",
+    "actorRole": "Camille Baker",
+    "movieTitle": "When Night Is Falling"
+  }
+]
