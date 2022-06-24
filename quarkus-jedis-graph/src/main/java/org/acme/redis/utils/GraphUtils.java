@@ -28,9 +28,6 @@ public class GraphUtils {
             "WHERE %1$s.name = \"%3$s\" AND %2$s.title = \"%4$s\" " +
             "CREATE (%1$s)-[:%5$s]->(%2$s)";
 
-    @Inject
-    ObjectMapper mapper;
-
     /**
      * Util should generate a string like so:
      * "CREATE ( p:Person { name: $name, age: $age, gender: $gender, status: $status }) RETURN p;

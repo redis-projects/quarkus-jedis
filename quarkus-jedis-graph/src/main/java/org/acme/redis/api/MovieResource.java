@@ -9,6 +9,7 @@ import org.acme.redis.type.RelationshipENUM;
 import org.eclipse.microprofile.openapi.annotations.Operation;
 import org.jboss.resteasy.reactive.RestPath;
 import org.jboss.resteasy.reactive.RestQuery;
+import redis.clients.jedis.graph.ResultSet;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
@@ -98,7 +99,6 @@ public class MovieResource {
         limit = limit <= 0 ? 20 : limit;
         return movieService.getMovieByPersonName(name, page, limit, DIRECTOR);
     }
-
 }
 
 // Get Actors by Movie

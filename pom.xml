@@ -19,7 +19,7 @@
         <maven.compiler.release>11</maven.compiler.release>
 
         <!-- deps -->
-        <jedis.version>4.2.3</jedis.version>
+        <jedis.version>4.3.0-SNAPSHOT</jedis.version>
         <lombok.version>1.18.20</lombok.version>
         <commons-lang.version>3.12.0</commons-lang.version>
 
@@ -27,13 +27,14 @@
         <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
         <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
         <quarkus.platform.version>2.7.5.Final</quarkus.platform.version>
-        <surefire-plugin.version>3.0.0-M5</surefire-plugin.version>
+        <surefire-plugin.version>3.0.0-M7</surefire-plugin.version>
 
     </properties>
 
     <modules>
-       <module>quarkus-jedis-json</module>
-       <module>quarkus-jedis-graph</module> 
+        <module>quarkus-jedis-json</module>
+        <module>quarkus-jedis-graph</module>
+        <module>quarkus-jedis-timeseries</module>
     </modules>
 
     <dependencyManagement>
@@ -47,6 +48,13 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <repositories>
+        <repository>
+            <id>snapshots-repo</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+        </repository>
+    </repositories>
 
     <build>
         <plugins>
