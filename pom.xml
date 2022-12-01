@@ -34,6 +34,7 @@
     <modules>
         <module>quarkus-jedis-json</module>
         <module>quarkus-jedis-graph</module>
+        <module>quarkus-jedis-json-customer-examples</module>
         <module>quarkus-jedis-timeseries</module>
     </modules>
 
