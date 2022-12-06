@@ -1,15 +1,11 @@
 package org.acme.redis.config;
 
-
-import com.github.javafaker.Faker;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import io.quarkus.runtime.Startup;
 import io.quarkus.runtime.StartupEvent;
 import lombok.extern.slf4j.Slf4j;
-import org.acme.redis.model.Product;
-import org.acme.redis.model.Transaction;
-import org.apache.commons.lang3.RandomStringUtils;
+
 import org.eclipse.microprofile.config.inject.ConfigProperty;
 import redis.clients.jedis.UnifiedJedis;
 import redis.clients.jedis.json.Path;
@@ -26,6 +22,8 @@ import java.util.Random;
 import java.util.UUID;
 import java.util.concurrent.ThreadLocalRandom;
 import java.util.stream.IntStream;
+
+import org.acme.redis.model.Transaction;
 
 @Slf4j
 @Startup

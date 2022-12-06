@@ -34,14 +34,17 @@ public class DataGenerator {
     @ConfigProperty(name = "redis.generate.stock")
     boolean loadData;
 
+    @ConfigProperty(name = "redis.generate.stock.amount")
+    int stockAmount;
+
     private static final String LOCATIONS = "locations.csv";
     private static final String PRODUCTS = "products.csv";
 
     void onStart(@Observes StartupEvent ev) throws IOException, CsvException {
         log.info("Generate Stock : {}", loadData);
         if (loadData) {
-            // this.generateProductSkus(5000);
-            //this.generateStockQuantity();
+            this.generateProductSkus(stockAmount);
+            this.generateStockQuantity();
         }
     }
 
